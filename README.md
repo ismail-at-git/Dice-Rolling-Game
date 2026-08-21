@@ -1,4 +1,4 @@
-🎲 Dice Rolling Game – Project Description
+ 🎲 Dice Rolling Game – Project Description
 
 A simple yet engaging web application that simulates a dice roll, built using HTML, CSS, and JavaScript. The game generates a random number between 1 and 6 when the user clicks a button, visually updating the dice face accordingly. It's an excellent beginner-level project to understand how to manipulate the DOM and work with basic logic in JavaScript.
 
@@ -12,7 +12,7 @@ JavaScript (Vanilla):
 
 Used Math.random() and Math.floor() to generate a random dice value (1–6).
 
-Manipulated the DOM to dynamically change the dice image based on the random number.
+Manipulated the DOM to dynamically change the dice image based on the random number.     
 
 Handled user interaction through addEventListener to trigger the roll function on button click.
 
