@@ -6,8 +6,7 @@ A simple yet engaging web application that simulates a dice roll, built using HT
 
 HTML5: Structured the layout and content of the page including the dice image and roll button.
 
-CSS3: Styled the game interface, including responsive layout and hover effects to enhance user interaction.   
-
+CSS3: Styled the game interface, including responsive layout and hover effects to enhance user interaction.      
 JavaScript (Vanilla):
 
 Used Math.random() and Math.floor() to generate a random dice value (1–6).
