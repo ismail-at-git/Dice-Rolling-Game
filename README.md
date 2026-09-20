@@ -2,7 +2,7 @@
 
 A simple yet engaging web application that simulates a dice roll, built using HTML, CSS, and JavaScript. The game generates a random number between 1 and 6 when the user clicks a button, visually updating the dice face accordingly. It's an excellent beginner-level project to understand how to manipulate the DOM and work with basic logic in JavaScript.  
 
-🛠️ Technologies Used:
+🛠️ Technologies Used: 
 
 HTML5: Structured the layout and content of the page including the dice image and roll button.
    
